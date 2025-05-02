@@ -1,0 +1,15 @@
+Fri May  2 17:05:40 2025    profiling_output
+
+         792250 function calls (767761 primitive calls) in 1.726 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2254 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    331/1    0.006    0.000    1.726    1.726 {built-in method builtins.exec}
+        1    0.000    0.000    1.726    1.726 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.561    1.561 financial_enhanced.py:38(main)
+        1    0.000    0.000    1.561    1.561 financial_enhanced.py:7(get_financial_data)
+        1    0.000    0.000    1.393    1.393 /home/naysswyf/school21/DS_Bootcamp/day3/naysswyf/lib/python3.12/site-packages/httpx/_api.py:174(get)
+
+
